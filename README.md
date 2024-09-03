@@ -2,6 +2,8 @@
 - 👀 I’m interested in ... Cricket
 - 🌱 I’m currently learning ... B.Tech in AIDA
 - 📫 How to reach me ... da24b008@smail.iitm.ac.in
+
+Created on 3rd September 2024
   
 <!---
 kirankumarp05/kirankumarp05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
